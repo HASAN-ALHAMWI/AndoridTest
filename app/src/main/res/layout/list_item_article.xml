@@ -15,7 +15,7 @@
     <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:rippleColor="@color/color_ripple"
+        app:rippleColor="@color/colorRipple"
         android:clickable="true"
         android:focusable="true"
         android:backgroundTint="@color/colorBackground">
@@ -25,7 +25,7 @@
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="@dimen/spacing_margin"
             android:layout_marginVertical="@dimen/spacing_margin"
-            android:background="@color/color_transparent">
+            android:background="@color/colorTransparent">
 
             <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/iv_article_image_background"
@@ -63,7 +63,7 @@
                     android:ellipsize="end"
                     android:maxLines="2"
                     android:text="@{data.title}"
-                    android:textColor="@color/color_000000"
+                    android:textColor="@color/black"
                     android:textSize="@dimen/font_16" />
 
                 <Space

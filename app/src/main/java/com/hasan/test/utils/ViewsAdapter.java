@@ -34,7 +34,6 @@ public class ViewsAdapter {
         RecyclerView.Adapter adapter = recyclerView.getAdapter();
         if (adapter != null) {
             if (adapter instanceof BaseListAdapter) {
-                System.out.println("-----data---- " + data.size());
                 ((BaseListAdapter) adapter).submitData(data);
             }
         }

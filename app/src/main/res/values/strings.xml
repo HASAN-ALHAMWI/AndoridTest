@@ -1,18 +1,7 @@
 <resources>
     <string name="app_name">NY Times Most Popular</string>
 
-    <!-- Strings related to Error -->
     <string name="no_internet_connection">No internet connection</string>
-    <string name="try_again">Try again</string>
-    <string name="watch_offline">Watch offline</string>
     <string name="no_results">"No results, empty list"</string>
-    <string name="go_back">Go back</string>
-    <string name="failed_connecting_to_server">Failed connecting to the server, Please try again later</string>
-    <string name="huawei_error">To login by huawei, you must have HMS core in your device</string>
-
-    <!--to toggle the open close button
-    of the navigation drawer-->
-    <string name="nav_open">Open</string>
-    <string name="nav_close">Close</string>
 
 </resources>
