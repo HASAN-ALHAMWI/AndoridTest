@@ -8,5 +8,5 @@ Android Application under MVVM, UseCases and Repositories architecture using:
 
 # ScreenShot
 
-![Screenshot_1642729346](https://user-images.githubusercontent.com/47717467/150451074-9f852742-7555-4745-ad50-34f885e67afa.png)
+![Screenshot_1642729880](https://user-images.githubusercontent.com/47717467/150451317-b5c44ca7-0330-497a-b02f-4fcf6cf7fc60.png)
 
